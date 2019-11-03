@@ -14,7 +14,7 @@ namespace Hello_world
             {
                 Console.WriteLine("Hellow World12");
             }
-            Console.ReadKey();
+            Console.ReadLine();
             
 
         }
