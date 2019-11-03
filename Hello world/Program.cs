@@ -17,7 +17,7 @@ namespace Hello_world
             Console.ReadLine();
             for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine("Пока1");
+                Console.WriteLine("Пока1"); 
             }
             
 
