@@ -14,12 +14,12 @@ namespace Hello_world
             {
                 Console.WriteLine("Hellow World12");
             }
-            Console.ReadLine();
+            
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine("Пока1"); 
             }
-            
+            Console.ReadLine();
 
         }
     }
