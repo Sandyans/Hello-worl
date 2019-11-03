@@ -15,7 +15,10 @@ namespace Hello_world
                 Console.WriteLine("Hellow World12");
             }
             Console.ReadLine();
-            Console.WriteLine("Пока");
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Пока1");
+            }
             
 
         }
